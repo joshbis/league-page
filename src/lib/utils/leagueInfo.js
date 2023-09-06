@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "862075604747526144"; // your league ID
+export const leagueID = "932553828120104960"; // your league ID
 export const leagueName = "Seattle* Bush League 2.0"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
